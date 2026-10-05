@@ -1,16 +1,13 @@
-## Hi there 👋
+# Machine Learning Engineer
 
-<!--
-**thereisnouser/thereisnouser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NLP · Deep Learning · LLMs · ML Systems**
 
-Here are some ideas to get you started:
+Building practical ML systems and open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current project
+
+**SM Atlas** — an open-source world and save explorer for Scrap Mechanic.
+
+---
+
+GitHub activity since 2021.
