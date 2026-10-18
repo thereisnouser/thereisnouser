@@ -18,6 +18,7 @@ python · ml · nlp · game-dev
 &emsp;├── [stonewards-toggler-plus](https://github.com/thereisnouser/stonewards-toggler-plus) — Stonewards default rings and tomes toggler mod  
 &emsp;├── [stonewards-gold-ring-scaling](https://github.com/thereisnouser/stonewards-gold-ring-scaling) — Stonewards classic Gold Ring scaling mod  
 &emsp;├── [stonewards-bell-lock](https://github.com/thereisnouser/stonewards-bell-lock) — Stonewards host-only bell permissions mod  
+&emsp;├── [stonewards-session-visibility](https://github.com/thereisnouser/stonewards-session-visibility) — Stonewards in-session lobby visibility mod  
 &emsp;└── [stonewards-fov-plus](https://github.com/thereisnouser/stonewards-fov-plus) — Stonewards extended FOV slider mod  
 
 </details>
