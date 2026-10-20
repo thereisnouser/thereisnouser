@@ -16,7 +16,7 @@ python · ml · nlp · game-dev
 &emsp;├── [stonewards-party-hud](https://github.com/thereisnouser/stonewards-party-hud) — Stonewards party HUD mod  
 &emsp;├── [stonewards-toggler-plus](https://github.com/thereisnouser/stonewards-toggler-plus) — Stonewards ring and tome toggler with class filters mod  
 &emsp;├── [stonewards-daily-quest-tracker](https://github.com/thereisnouser/stonewards-daily-quest-tracker) — Stonewards daily quest tracking HUD mod  
-&emsp;├── [stonewards-ore-auto-pickup](https://github.com/thereisnouser/stonewards-ore-auto-pickup) — Stonewards automatic ore pickup mod
+&emsp;├── [stonewards-ore-auto-pickup](https://github.com/thereisnouser/stonewards-ore-auto-pickup) — Stonewards automatic ore pickup mod  
 &emsp;├── [stonewards-gold-ring-scaling](https://github.com/thereisnouser/stonewards-gold-ring-scaling) — Stonewards classic Gold Ring scaling mod  
 &emsp;├── [stonewards-bell-lock](https://github.com/thereisnouser/stonewards-bell-lock) — Stonewards host-only bell permissions mod  
 &emsp;├── [stonewards-session-visibility](https://github.com/thereisnouser/stonewards-session-visibility) — Stonewards in-session lobby visibility mod  
