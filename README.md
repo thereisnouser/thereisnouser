@@ -10,7 +10,7 @@ python · ml · nlp · game-dev
 ---
 
 <details open>
-<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>09</sub></sup></summary>
+<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>10</sub></sup></summary>
 
 &emsp;├── [sm-atlas](https://github.com/thereisnouser/sm-atlas) — Scrap Mechanic save explorer  
 &emsp;├── [stonewards-party-hud](https://github.com/thereisnouser/stonewards-party-hud) — Stonewards party HUD mod  
@@ -20,6 +20,7 @@ python · ml · nlp · game-dev
 &emsp;├── [stonewards-gold-ring-scaling](https://github.com/thereisnouser/stonewards-gold-ring-scaling) — Stonewards classic Gold Ring scaling mod  
 &emsp;├── [stonewards-bell-lock](https://github.com/thereisnouser/stonewards-bell-lock) — Stonewards host-only bell permissions mod  
 &emsp;├── [stonewards-session-visibility](https://github.com/thereisnouser/stonewards-session-visibility) — Stonewards in-session lobby visibility mod  
+&emsp;├── [stonewards-drop-full-stack](https://github.com/thereisnouser/stonewards-drop-full-stack) — Stonewards full-stack item dropping mod  
 &emsp;└── [stonewards-fov-plus](https://github.com/thereisnouser/stonewards-fov-plus) — Stonewards extended FOV slider mod  
 
 </details>
