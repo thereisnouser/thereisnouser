@@ -10,9 +10,16 @@ python · ml · nlp · game-dev
 ---
 
 <details open>
-<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>11</sub></sup></summary>
+<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>12</sub></sup></summary>
 
-&emsp;├── [sm-atlas](https://github.com/thereisnouser/sm-atlas) — Scrap Mechanic save explorer  
+<br>
+
+<dl>
+<dd>
+
+<details>
+<summary>⛏️ <b>stonewards/</b>&ensp;<sup><sub>10</sub></sup></summary>
+
 &emsp;├── [stonewards-party-hud](https://github.com/thereisnouser/stonewards-party-hud) — Stonewards party HUD mod  
 &emsp;├── [stonewards-toggler-plus](https://github.com/thereisnouser/stonewards-toggler-plus) — Stonewards ring and tome toggler with class filters mod  
 &emsp;├── [stonewards-daily-quest-tracker](https://github.com/thereisnouser/stonewards-daily-quest-tracker) — Stonewards daily quest tracking HUD mod  
@@ -23,5 +30,22 @@ python · ml · nlp · game-dev
 &emsp;├── [stonewards-session-visibility](https://github.com/thereisnouser/stonewards-session-visibility) — Stonewards in-session lobby visibility mod  
 &emsp;├── [stonewards-drop-full-stack](https://github.com/thereisnouser/stonewards-drop-full-stack) — Stonewards full-stack item dropping mod  
 &emsp;└── [stonewards-fov-plus](https://github.com/thereisnouser/stonewards-fov-plus) — Stonewards extended FOV slider mod  
+
+</details>
+<details>
+<summary>🧟 <b>killing-floor-2/</b>&ensp;<sup><sub>1</sub></sup></summary>
+
+&emsp;└── [kf2-wave-gore-cleanup](https://github.com/thereisnouser/kf2-wave-gore-cleanup) — Killing Floor 2 wave gore cleanup mod
+
+</details>
+<details>
+<summary>🔧 <b>scrap-mechanic/</b>&ensp;<sup><sub>1</sub></sup></summary>
+
+&emsp;└── [sm-atlas](https://github.com/thereisnouser/sm-atlas) — Scrap Mechanic save explorer
+
+</details>
+
+</dd>
+</dl>
 
 </details>
