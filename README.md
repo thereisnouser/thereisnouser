@@ -10,7 +10,7 @@ python · ml · nlp · game-dev
 ---
 
 <details open>
-<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>12</sub></sup></summary>
+<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>13</sub></sup></summary>
 
 <br>
 
@@ -18,7 +18,7 @@ python · ml · nlp · game-dev
 <dd>
 
 <details>
-<summary>⛏️ <b>stonewards/</b>&ensp;<sup><sub>10</sub></sup></summary>
+<summary>⛏️ <b>stonewards/</b>&ensp;<sup><sub>11</sub></sup></summary>
 
 &emsp;├── [stonewards-party-hud](https://github.com/thereisnouser/stonewards-party-hud) — Stonewards party HUD mod  
 &emsp;├── [stonewards-toggler-plus](https://github.com/thereisnouser/stonewards-toggler-plus) — Stonewards ring and tome toggler with class filters mod  
@@ -28,6 +28,7 @@ python · ml · nlp · game-dev
 &emsp;├── [stonewards-gold-ring-scaling](https://github.com/thereisnouser/stonewards-gold-ring-scaling) — Stonewards classic Gold Ring scaling mod  
 &emsp;├── [stonewards-bell-lock](https://github.com/thereisnouser/stonewards-bell-lock) — Stonewards host-only bell permissions mod  
 &emsp;├── [stonewards-session-visibility](https://github.com/thereisnouser/stonewards-session-visibility) — Stonewards in-session lobby visibility mod  
+&emsp;├── [stonewards-particle-optimizer](https://github.com/thereisnouser/stonewards-particle-optimizer) — Stonewards mining and destruction particle optimizer mod  
 &emsp;├── [stonewards-drop-full-stack](https://github.com/thereisnouser/stonewards-drop-full-stack) — Stonewards full-stack item dropping mod  
 &emsp;└── [stonewards-fov-plus](https://github.com/thereisnouser/stonewards-fov-plus) — Stonewards extended FOV slider mod  
 
