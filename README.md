@@ -10,7 +10,7 @@ python · ml · nlp · game-dev
 ---
 
 <details open>
-<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>14</sub></sup></summary>
+<summary>🎮 <b>game-dev/</b>&ensp;<sup><sub>15</sub></sup></summary>
 
 <br>
 
@@ -18,11 +18,12 @@ python · ml · nlp · game-dev
 <dd>
 
 <details>
-<summary>⛏️ <b>stonewards/</b>&ensp;<sup><sub>12</sub></sup></summary>
+<summary>⛏️ <b>stonewards/</b>&ensp;<sup><sub>13</sub></sup></summary>
 
 &emsp;├── [stonewards-party-hud](https://github.com/thereisnouser/stonewards-party-hud) — Stonewards party HUD mod  
 &emsp;├── [stonewards-toggler-plus](https://github.com/thereisnouser/stonewards-toggler-plus) — Stonewards ring and tome toggler with class filters mod  
 &emsp;├── [stonewards-daily-quest-tracker](https://github.com/thereisnouser/stonewards-daily-quest-tracker) — Stonewards daily quest tracking HUD mod  
+&emsp;├── [stonewards-disconnect-drops](https://github.com/thereisnouser/stonewards-disconnect-drops) — Stonewards disconnect loot drop mod  
 &emsp;├── [stonewards-ore-auto-pickup](https://github.com/thereisnouser/stonewards-ore-auto-pickup) — Stonewards automatic ore pickup mod  
 &emsp;├── [stonewards-undo-ring-selection](https://github.com/thereisnouser/stonewards-undo-ring-selection) — Stonewards ring selection and skip confirmation mod  
 &emsp;├── [stonewards-spectator-switch](https://github.com/thereisnouser/stonewards-spectator-switch) — Stonewards spectator switching HUD mod  
